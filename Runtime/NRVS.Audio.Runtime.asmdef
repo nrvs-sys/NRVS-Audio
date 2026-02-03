@@ -2,7 +2,8 @@
     "name": "NRVS.Audio.Runtime",
     "rootNamespace": "NRVS.Audio",
     "references": [
-        "GUID:0c752da273b17c547ae705acf0f2adf2"
+        "GUID:0c752da273b17c547ae705acf0f2adf2",
+        "GUID:437b2184bacff1240898755753882399"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
